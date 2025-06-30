@@ -23,6 +23,8 @@ This project presents a comprehensive Power BI dashboard that visualizes key per
 🧰Dashboard overview:
 Sheet 1:- https://github.com/kushalgupta15/Project-2-on-Power-BI-Dashboard/blob/main/Project-2(Super%20Market%20Sales)%20Dashboard%20View.jpg
 
+Sheet 2:-https://github.com/kushalgupta15/Project-2-on-Power-BI-Dashboard/blob/main/Project-2%20Dashboard%20(Sheet-2)Sales%20Forcasting%20.png
+
 
 
 
