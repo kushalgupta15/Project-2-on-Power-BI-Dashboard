@@ -21,6 +21,7 @@ This project presents a comprehensive Power BI dashboard that visualizes key per
 ->Publicly available sales data obtained from Google (modified and structured for business analysis).
 
 🧰Dashboard overview:
+Sheet 1:- https://github.com/kushalgupta15/Project-2-on-Power-BI-Dashboard/blob/main/Project-2(Super%20Market%20Sales)%20Dashboard%20View.jpg
 
 
 
